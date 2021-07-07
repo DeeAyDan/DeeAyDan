@@ -1,6 +1,6 @@
 # Hello, I'm Daniel - aka DeeAyDan 👋
 
-## I'm an upcoming Front-End Developer!
+## I'm a Front-End Developer!
 
 -  I’m currently working through the [TOP Curriculum][odin]
 -  Also working on a game jam with 3 other developers
