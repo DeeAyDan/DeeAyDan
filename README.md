@@ -9,7 +9,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-deeaydan.vercel.app/api/spotify-playing" alt="DeeAyDan Spotify Playing" width="350" />](https://open.spotify.com/user/21jsxrmwuwhdqriubj7ghhlva)
+[<img src="https://novatorem-deeaydan.vercel.app/api/spotify" alt="DeeAyDan Spotify Playing" width="350" />](https://open.spotify.com/user/21jsxrmwuwhdqriubj7ghhlva)
 
 ### Connect with me:
 
