@@ -38,7 +38,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="DeeAyDan's GitHub Stats" src="https://https://github.com/anuraghazra/github-readme-stats.app/api?username=DeeAyDan&show_icons=true&hide_border=true" />
+  <img align="left" alt="DeeAyDan's GitHub Stats" src="https://github.com/anuraghazra/github-readme-stats.app/api?username=DeeAyDan&show_icons=true&hide_border=true" />
 
 </details>
 
