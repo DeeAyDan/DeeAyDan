@@ -42,7 +42,7 @@
 
 </details>
 
-[odin]: https://www.theodinproject.com/dashboard
+[odin]: https://www.theodinproject.com/home
 [youtube]: https://www.youtube.com/channel/UC7dWVDAV2UIIVj5gZFM-hdA
 [twitter]: https://twitter.com/DeeAyDan
 [instagram]: https://www.instagram.com/deeaydan/
