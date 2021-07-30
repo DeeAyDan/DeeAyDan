@@ -3,7 +3,7 @@
 ## I'm a Front-End Developer!
 
 -  I’m currently working through the [TOP Curriculum][odin]
--  Also working on a game jam with 3 other developers
+-  Also working on a game jam with 2 other developers
 -  I’m looking to collaborate with other developers on similar level
 -  2021 Goals: 500 total commits, 5 freelancing job lands
 
