@@ -1,6 +1,6 @@
-# Hello, I'm Daniel - aka DeeAyDan 👋
+# Hello, I'm Daniel - aka 'DeeAyDan' or 'Dan' 👋
 
-## I'm a Front-End Developer!
+## I'm a student at the university of Szeged!
 
 -  I’m currently working through the [TOP Curriculum][odin]
 
