@@ -37,6 +37,7 @@
   <summary>:zap: GitHub Stats</summary>
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deeaydan&show_icons=true&locale=en" alt="deeaydan" /></p>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
