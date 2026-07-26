@@ -2,7 +2,7 @@
 
 ## Software Engineer
  - Bachelor's degre in computer science (2022-2026)
- - Deep understanding of HTML, TailwindCSS, TypeScript, React, V8 engine
+ - "Web Developer"
 
 ## Skills
 
