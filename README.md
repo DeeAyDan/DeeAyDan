@@ -3,6 +3,7 @@
 ## Software Engineer
  - Bachelor's degre in computer science (2022-2026)
  - "Web Developer"
+ - Typescript OTP
 
 ## Skills
 
